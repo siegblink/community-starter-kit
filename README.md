@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+* An amazing bot that welcomes new contributors to a repository
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* Automates the process of giving a welcome message to new contributors
 
 ## Getting started
 
